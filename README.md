@@ -10,8 +10,8 @@ Time spent: **2** hours spent in total
 
 The following **required** functionality is complete:
 
-* [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
-* [ ] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
+* [check] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [check] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
 
 
 ## Video Walkthrough
